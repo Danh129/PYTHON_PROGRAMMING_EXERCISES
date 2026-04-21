@@ -40,8 +40,8 @@ Mục tiêu chính là nắm vững tư duy lập trình hiện đại, xử lý
 
 
 ## 👤 Thông tin tác giả
-Họ tên: Lê Thanh Danh
-MSSV: 2451050005
+Họ tên: Lê Thanh Danh.
+MSSV: 2451050005.
 
 
 
